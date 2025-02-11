@@ -1,7 +1,7 @@
-# Servo Motor Com Raspberry Pi Pico W
+# Servo Motor Com Raspberry Pi Pico W - PWM
 Atividade da Unidade 04 - Capítulo 07 - Embarca Tech
  
-O programa desenvolvido neste repositório tem como objetivo principal aplicar tecnicas de controle de um micro servo motor utilizando um microcontrolador Raspberry Pi Pico W.
+O programa desenvolvido neste repositório tem como objetivo principal aplicar tecnicas de controle de um micro servo motor utilizando um microcontrolador Raspberry Pi Pico W através do PWM.
 
 # Requisitos e Instruções de Execução
  Para a execução desse código serão necessários os seguintes equipamentos equipamentos:
@@ -35,3 +35,5 @@ em seguida deverá iniciar uma mvimentação alternando entre 0º e 180º.
 #### Ao clicar __[Aqui]()__ verá um vídeo no __YouTube__ explicando o funcionamento completo do Código.
 
 # Contribuições
+
+<img src="pwm_banner.png">
