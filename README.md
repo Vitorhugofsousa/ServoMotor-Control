@@ -33,7 +33,7 @@ A hélice do Servo-Motor deverá executar uma movimentação para 180º assim qu
 depois ela deverá se movimentar para 90º e permanecer por 5 segundos, se movimentar para a posição 0º e permanecer por 5 segundos,
 em seguida deverá iniciar uma mvimentação alternando entre 0º e 180º.
 
-#### Ao clicar __[Aqui]()__ verá um vídeo no __YouTube__ explicando o funcionamento completo do Código.
+#### Ao clicar __[Aqui](https://youtu.be/AobRSksN1tk)__ verá um vídeo no __YouTube__ explicando o funcionamento completo do Código.
 
 # Contribuições
 
