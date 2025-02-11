@@ -47,5 +47,17 @@ int main(){
 
     while(1){
 
+        printf("Inicio da Movimentação Suave\n");
+
+        for(float pulse = 500; pulse <= 2400; pulse += 5){
+            movimentacao(slice_numero, pulse);
+            sleep_ms(10);
+        }
+
+        printf("Retorno da Movimentação Suave\n");
+        for(float pulse = 2400; pulse >= 500; pulse -= 5){
+            movimentacao(slice_numero, pulse);
+            sleep_ms(10);
+        }
     }
 }
